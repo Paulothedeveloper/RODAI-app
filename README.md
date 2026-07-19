@@ -7,7 +7,7 @@
 <p align="center"><b>Aluguel de carro entre pessoas (P2P)</b><br>O carro de gente de verdade, pertinho de você.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-Em%20constru%C3%A7%C3%A3o-1C7E84?style=for-the-badge" alt="status">
+  <img src="https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-1C7E84?style=for-the-badge" alt="status">
   <img src="https://img.shields.io/badge/Flutter-3.41-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20Storage-F4A22C?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/mercado-Porto%20Velho%20%2F%20BR-0E3A3D?style=for-the-badge" alt="mercado">
